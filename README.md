@@ -1,7 +1,6 @@
 # computacion-cientifica
 Repositorio del curso Computación Científica Javeriana Cali 2020-1
-
-Lista de laboratorios realizados en MATLAB:
+Implementación de laboratorios en MATLAB.
 
 ### laboratorio-1
 Sistemas de ecuaciones lineales, implementación método de gauss-jordan, etc.
