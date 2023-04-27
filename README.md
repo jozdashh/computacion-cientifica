@@ -1,5 +1,5 @@
 # computacion-cientifica
-Repositorio del curso Computación Científica Javeriana Cali 2020-1
+Repositorio del curso Computación Científica 2020-1
 
 ## Implementación de laboratorios en MATLAB:
 
